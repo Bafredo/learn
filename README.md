@@ -9,5 +9,6 @@
 
 ![Alt text](https://example.com/image.jpg)
 
-- [x] Git hub collaboration 1
-- [ ] Task 2
+- [x] Git hub collaboration 
+- [x] Landing page creation
+_ [ ] Responsiveness
