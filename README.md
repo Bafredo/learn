@@ -11,4 +11,4 @@
 
 - [x] Git hub collaboration 
 - [x] Landing page creation
-_ [ ] Responsiveness
+- [ ] Responsiveness
